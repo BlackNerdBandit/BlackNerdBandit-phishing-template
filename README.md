@@ -27,8 +27,11 @@ I, *BlackNerdBandit, take **zero responsibility* for misuse.
 ---
 
 🚫 Full project files (index.html + process.php) are not publicly available.  
-💸 Buy the full package securely via Gumroad 👇🏾  
-👉🏾 [Gumroad link here]
+## 💸 Want the Full Working Version?
+
+👉🏾 [Click here to get it on Gumroad – $15](https://blacknerdbandit.gumroad.com/l/osavw)
+
+🛡 For educational use only. Not for illegal activity.
 
 ---
 
