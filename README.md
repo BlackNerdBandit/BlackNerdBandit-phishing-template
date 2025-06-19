@@ -26,8 +26,9 @@ I, *BlackNerdBandit, take **zero responsibility* for misuse.
 
 ---
 
-## 💸 Want the Full Working Version?
-👉🏾 Coming soon: [Gumroad link will be here 🔥]
+🚫 Full project files (index.html + process.php) are not publicly available.  
+💸 Buy the full package securely via Gumroad 👇🏾  
+👉🏾 [Gumroad link here]
 
 ---
 
